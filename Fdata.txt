@@ -1,0 +1,10 @@
+FCSE001 Dr.Vikas Saxena CSE JIIT Ph.D Machine_Learning HOD 25 200000
+FCSE002 Mridula Sharma CSE JIIT M.Tech Networking ASST_PROF 7 150000
+FBT001 Neha Chauhan BT JIIT M.Tech BioScience HOD 25 200000
+FBT002 Jay Chauhan BT JIIT M.Tech BioScience PROF 25 200000
+FBBA001 Dr.Vinay Chaudhary BBA JBS MBA Finance HOD 22 200000
+FBBA002 Sujal Dadhaniya BBA JBS MBA Finance PROF 12 150000
+FECE001 Dr.Kartik Pandya ECE JIIT Ph.D Power_System HOD 20 200000
+FECE002 Vibha Parmar ECE JIIT M.Tech Microelectronics PROF 10 100000
+FIT001 Dr.Parth Gupta IT JIIT Ph.D Machine_Learning HOD 25 200000
+FIT002 Ashwin Singh IT JIIT M.Tech IOS_Development PROF 13 100000
